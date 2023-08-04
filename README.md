@@ -14,6 +14,8 @@ pkg install python3
 
 pkg install pip
 
+pkg install cython
+
 pip install alive-progress
 
 git clone https://github.com/STE4LPH/OFUSH-CRIPT
