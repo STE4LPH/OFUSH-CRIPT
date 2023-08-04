@@ -14,7 +14,7 @@ pkg install python3
 
 pkg install pip
 
-pkg install cython
+pip install cython
 
 pip install alive-progress
 
