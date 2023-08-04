@@ -16,7 +16,7 @@ pkg install pip
 
 pip install alive-progress
 
-git clone https://github.com/STE4LPH/OFUSH-CRIPT/edit/main/README.md
+git clone https://github.com/STE4LPH/OFUSH-CRIPT
 
 cd OFUSH-CRIPT
 
