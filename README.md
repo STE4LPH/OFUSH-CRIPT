@@ -1,5 +1,10 @@
 # OFUSH-CRIPT
 
+__Este script fue diseñado para proteger los códigos de los programadores, para asi evitar copias falsas por los SCRIPT-CODE-RATS.__
+
+
+# INSTALACION
+________________________________________
 
 apt update && apt upgrade -y
 
