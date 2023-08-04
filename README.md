@@ -41,7 +41,7 @@ python3 compile.py build_ext --inplace
 *Listo ya lo tienes ofuscado*
 
 
-# Borrar 
+# Borrar (IMPORTANTE)
 
 ahora escribe este comando
 
