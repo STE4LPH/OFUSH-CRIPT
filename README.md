@@ -59,4 +59,4 @@ rm -rf tu_codigo_orignal.py
 rm -rf tu_coidgo.c
 
 
-*ESO ES TODO*
+*ESO ES TODO, me dio tanta paja crear la descripción*
