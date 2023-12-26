@@ -1,1 +1,1 @@
-from package import ofush_cript_original
+from package import ofush_original
